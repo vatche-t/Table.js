@@ -1,0 +1,33 @@
+
+	body{
+	background-color:white;
+	}
+	table{
+	color: black;
+	top:50%;
+	left:50%;
+	position:absolute;
+	margin-top:-260px;
+	margin-left:-274px;
+	border: 1px solid #EA6565;
+	border-collapse: collapse;
+	}
+	td{
+	padding: 12px;
+	text-align: center
+	}
+	th{
+	font-size: 25px
+	}
+	.bold{
+	font-weight: bold;
+	font-size: 20px
+	}
+		.selected {
+    background-color: red;    
+}
+		td {
+    padding: 10px;
+}
+		
+	
